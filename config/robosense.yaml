@@ -4,7 +4,7 @@ common:
 
 preprocess:
     lidar_type: 6                # Robosense LiDAR
-    scan_line: 128
+    scan_line: 16
     blind: 2
     feature_extract_en: false
 
